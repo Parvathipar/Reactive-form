@@ -1,0 +1,55 @@
+input{
+    width: 200px;
+    margin-left: 50px;
+    margin-top: 10px;
+
+}
+label{
+   color: cadetblue;
+    font-weight: bold;
+}
+h1{
+    text-align: center;
+    color: blue;
+}
+form{
+    background-color: lightgrey;
+    padding-left: 100px;
+   
+}
+button{
+    background-color: blueviolet;
+    border:none;
+    padding: 10px;
+    margin-left: 200px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+select{
+    width: 200px;
+}
+#name{
+  margin-left: 50px;
+}
+#author{
+    margin-left: 40px;
+}
+#publication{
+    margin-left: 95px;
+}
+#price{
+    margin-left: 80px;
+}
+#genre{
+    margin-left: 130px;
+}
+#date{
+    margin-left: 140px;
+}
+select{
+    margin-left: 120px;
+    margin-top: 10px;
+}
+#description{
+    margin-left: 95px;
+}
